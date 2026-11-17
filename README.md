@@ -227,7 +227,7 @@ ColdChain is a competition prototype, **not a certified medical device**. The fo
 data and needs real fridge traces before field use; battery percentage needs a calibrated divider; the reference
 relay circuit drives a low-voltage demo load only. See [docs/VALIDATION.md](docs/VALIDATION.md).
 
-## 📜 Changelog
+## 📜 Changelog:
 
 [V12](docs/V12_CHANGES.md) accounts, themes, manual hardware control ·
 [V11](docs/V11_CHANGES.md) hardware view, redesign, deployment ·
